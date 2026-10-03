@@ -6,16 +6,16 @@ UFM Coins is an independent coin seller for **Ultimate Football Manager 27**, th
 
 ## Prices
 
-Published rates as of September 29, 2026, in USD:
+Published rates as of October 3, 2026, in USD:
 
 | Coin amount before market fees | Price | Coins net after the 5% game fee |
 | --- | ---: | ---: |
-| 100K | $2 | 95K |
-| 500K | $10 | 475K |
-| 1M | $20 | 950K |
-| 2M | $35 | 1.9M |
-| 3M | $50 | 2.85M |
-| 5M | $80 | 4.75M |
+| 100K | $1 | 95K |
+| 500K | $5 | 475K |
+| 1M | $10 | 950K |
+| 2M | $17.50 | 1.9M |
+| 3M | $25 | 2.85M |
+| 5M | $40 | 4.75M |
 
 Prices and availability may change with supply and demand. Confirm your final quote on Telegram before payment. The game's 5% market fee is not covered.
 
